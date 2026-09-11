@@ -2,8 +2,8 @@
 name: Рабочая задача
 about: Задача по созданию сайта команды Smart Solution
 title: ""
-labels: "executor: lucky, owner: roma"
-assignees: ""
+labels: "executor: lucky, owner: bryx"
+assignees: "BryxOG"
 ---
 
 ## Результат
