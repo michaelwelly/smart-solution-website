@@ -3,7 +3,7 @@ name: Рабочая задача
 about: Задача по созданию сайта команды Smart Solution
 title: ""
 labels: "executor: lucky, owner: bryx"
-assignees: "BryxOG"
+assignees: "0xLaki, BryxOG"
 ---
 
 ## Результат

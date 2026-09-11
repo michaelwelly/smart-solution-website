@@ -7,7 +7,7 @@
 ## Участники
 
 - Заказчик: команда Smart Solution
-- Исполнитель: Рома (Lucky)
+- Исполнитель: Рома ([Lucky / 0xLaki](https://github.com/0xLaki))
 - Ответственный: Егор ([BryxOG](https://github.com/BryxOG))
 - Владелец репозитория: Michael Poedinenko
 
